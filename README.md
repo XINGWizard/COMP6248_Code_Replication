@@ -21,6 +21,42 @@ Yifan Wang(yw25n20)
 
 
 Run the train_GCN.ipynb file for the GCN.
+
+
 Run the train_GAT.ipynb file for the GAT.
+
+
 Run the train_GCN.ipynb file for the GEOM-GCN.
+
+**Development environment**：
+
+Google Colab
+
+Python 3.7
+
+
+PyTorch 1.7.1 Cuda 9.2
+
+
+NetworkX 2.5
+
+
+Deep Graph Library 0.3 Cuda 9.2
+
+
+Numpy 1.19.2
+
+
+Scipy 1.5.2
+
+
+Scikit-Learn 0.23.2
+
+
+Tensorflow 1.14.0
+
+
+TensorboardX 2.1
+
+
 
