@@ -2,10 +2,12 @@
 COMP6248 Deep Learning Code Replication Coursework
 
 
-**Original Paper**: [Geom-GCN: Geometric Graph Convolutional Networks](https://arxiv.org/abs/2002.05287)
+**Original Paper**:
+
+[Geom-GCN: Geometric Graph Convolutional Networks](https://arxiv.org/abs/2002.05287)
 
 
-Team members:
+**Team members**:
 
 
 Yu Bai(yb1e20)
@@ -19,7 +21,7 @@ Huan Jiang(hj2e20)
 
 Yifan Wang(yw25n20)
 
-
+**Operating methods**：
 Run the train_GCN.ipynb file for the GCN.
 
 
