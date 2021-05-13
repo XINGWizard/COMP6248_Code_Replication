@@ -22,6 +22,8 @@ Huan Jiang(hj2e20)
 Yifan Wang(yw25n20)
 
 **Operating methods**：
+
+
 Run the train_GCN.ipynb file for the GCN.
 
 
