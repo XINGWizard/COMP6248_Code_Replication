@@ -20,3 +20,7 @@ Huan Jiang(hj2e20)
 Yifan Wang(yw25n20)
 
 
+Run the train_GCN.ipynb file for the GCN.
+Run the train_GAT.ipynb file for the GAT.
+Run the train_GCN.ipynb file for the GEOM-GCN.
+
